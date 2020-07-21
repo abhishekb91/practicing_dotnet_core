@@ -1,0 +1,12 @@
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/abhandari/Workspace/Test/pluralsight/practicing_tech_stacks/dotnetcore/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache

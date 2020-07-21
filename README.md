@@ -1,9 +1,7 @@
-# practicing_dotnet_core
-Personal repo for getting up to speed for dotnet
+# practicing_tech_stacks
+Personal repo for getting up to speed in various tech stacks
 
-# Project list
-1. [GradeBook](#gradebook)
+![Motto](all_the_things.jpg)
 
-
-## Gradebook
-A simple dotnetcore application to understand basic concepts of C#.
+# Stacks in the Repo
+1. [Dotnetcore](dotnetcore/README.md)
